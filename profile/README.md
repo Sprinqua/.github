@@ -75,8 +75,8 @@ Don't see your board? [Tell us](https://www.sprinqua.com/?ref=github-org#contact
 
 Sprinqua is free and open source under the **GPL-3.0** license. Fork it, add your board, translate it to a new language.
 
-- **Source code:** [app-sprinqua](https://github.com/OrbitOS-org/app-sprinqua)
-- **Report a problem or ask for a board:** [issues](https://github.com/OrbitOS-org/app-sprinqua/issues)
+- **Source code:** [Sprinqua/sprinqua](https://github.com/Sprinqua/sprinqua)
+- **Report a problem or ask for a board:** [open an issue](https://github.com/Sprinqua/sprinqua/issues)
 
 ## Links
 
